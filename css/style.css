@@ -92,6 +92,11 @@ img {
     width: 100%;
     height: auto;
 }
+.nlogo{
+    margin-top: 0%;
+    width: 200px;
+    height: 60px;
+}
 img {
     -webkit-transition: all 0.5s;
     -o-transition: all 0.5s;

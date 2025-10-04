@@ -93,9 +93,9 @@ img {
     height: auto;
 }
 .nlogo{
-    margin-top: 0%;
-    width: 200px;
-    height: 60px;
+
+    width: 155px;
+    height: 50px;
 }
 img {
     -webkit-transition: all 0.5s;
@@ -970,6 +970,8 @@ color: #ea2227;
 }
 .logo {
     padding: 0;
+    max-width: 200px;
+    height: 100%;
 }
 .logo-img {
     padding: 20px 0;
@@ -1207,7 +1209,6 @@ color: #ea2227;
     text-transform: uppercase;
     letter-spacing: 6px;
     color: #fff;
-    background-color: #00000047;
     margin-bottom: 20px;
     box-shadow: #3d3b3b;
     margin-top: 20px;
@@ -1224,7 +1225,7 @@ color: #ea2227;
     -webkit-animation-delay: .6s;
     animation-delay: .6s;
     color: #fff;
-    background-color: #00000047;
+    
     font-weight: 400;
     letter-spacing: 15px;
 }

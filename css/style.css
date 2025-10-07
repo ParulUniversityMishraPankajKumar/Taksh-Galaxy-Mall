@@ -1214,7 +1214,7 @@ color: #ea2227;
     box-shadow: #3d3b3b;
     text-shadow: 2px 2px 0 #ff0000;
     margin-top: 20px;
-    background-color: #00000066;
+
     -webkit-animation-delay: .4s;
     animation-delay: .4s;
 }
@@ -1228,7 +1228,7 @@ color: #ea2227;
     -webkit-animation-delay: .6s;
     animation-delay: .6s;
      color: #ffffff;   
-    background-color: #00000066;
+    
     text-shadow: 2px 2px 0 #ff0000;
 
     

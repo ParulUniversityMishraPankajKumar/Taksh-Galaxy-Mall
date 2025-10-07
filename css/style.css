@@ -5535,3 +5535,51 @@ select {
     }
 
     }
+
+    /* @pankaj */
+/* Taksh Galaxy Mall - All Restaurants CSS */
+
+section {
+    background: linear-gradient(135deg, #fafafa, #f1f1f1);
+    padding: 40px 15px;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
+
+.restaurants h1 {
+    font-size: 2.5em;
+    font-weight: 700;
+    color: #222;
+    margin-bottom: 10px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+.restaurants p {
+    font-size: 1.1em;
+    color: #555;
+    margin-bottom: 20px;
+}
+
+.explore-btn {
+    background: #e63946;
+    color: #fff;
+    border: none;
+    padding: 12px 30px;
+    border-radius: 30px;
+    font-size: 1em;
+    cursor: pointer;
+    transition: 0.3s ease;
+}
+
+.explore-btn:hover {
+    background: #b91c1c;
+    transform: translateY(-3px);
+}
+
+._df_book {
+    margin: 40px auto;
+    max-width: 900px;
+    box-shadow: 0 8px 25px rgba(0,0,0,0.15);
+    border-radius: 10px;
+}

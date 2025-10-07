@@ -1205,14 +1205,16 @@ color: #ea2227;
 
 .header .caption h4 {
     font-family: 'Barlow Condensed', serif;;
-    font-size: 15px;
+    font-size: 20px;
     font-weight: 400;
     text-transform: uppercase;
     letter-spacing: 6px;
-    color: #fff;
+    color: #ffffff;
     margin-bottom: 20px;
     box-shadow: #3d3b3b;
+    text-shadow: 2px 2px 0 #ff0000;
     margin-top: 20px;
+    background-color: #00000066;
     -webkit-animation-delay: .4s;
     animation-delay: .4s;
 }
@@ -1225,8 +1227,9 @@ color: #ea2227;
     line-height: 1.35em;
     -webkit-animation-delay: .6s;
     animation-delay: .6s;
-    color: #000000;
-    background-color: #ffffff3c;
+     color: #ffffff;   
+    background-color: #00000066;
+    text-shadow: 2px 2px 0 #ff0000;
 
     
     font-weight: 400;

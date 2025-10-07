@@ -1989,6 +1989,9 @@ hr {
 .banner-header h1 {
     font-size: 60px;
     color: #fff;
+    background-color: #00000066;
+      text-shadow: 2px 2px 0 #ff0000;
+
     position: relative;
 }
 
@@ -2015,6 +2018,9 @@ hr {
     text-transform: uppercase;
     letter-spacing: 6px;
     margin-bottom: 10px;
+     background-color: #00000066;
+    text-shadow: 2px 2px 0 #ff0000;
+
 }
 .banner-header h5 a {
     color: #ea2227;

@@ -1989,9 +1989,9 @@ hr {
 .banner-header h1 {
     font-size: 60px;
     color: #fff;
-    background-color: #00000066;
+    
       text-shadow: 2px 2px 0 #ff0000;
-
+     box-shadow:  #00000066;
     position: relative;
 }
 
@@ -2018,7 +2018,6 @@ hr {
     text-transform: uppercase;
     letter-spacing: 6px;
     margin-bottom: 10px;
-     background-color: #00000066;
     text-shadow: 2px 2px 0 #ff0000;
 
 }
@@ -5547,7 +5546,7 @@ select {
 
 section {
     background: linear-gradient(135deg, #fafafa, #f1f1f1);
-    padding: 40px 15px;
+
     text-align: center;
     font-family: 'Poppins', sans-serif;
 }

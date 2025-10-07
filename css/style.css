@@ -1225,7 +1225,9 @@ color: #ea2227;
     line-height: 1.35em;
     -webkit-animation-delay: .6s;
     animation-delay: .6s;
-    color: #fff;
+    color: #000000;
+    background-color: #ffffff3c;
+
     
     font-weight: 400;
     letter-spacing: 15px;
